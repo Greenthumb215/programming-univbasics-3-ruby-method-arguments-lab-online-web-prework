@@ -6,7 +6,6 @@
 
 
  def introduction(name)
-<<<<<<< HEAD
   puts "Hi, my name is #{name}."
 end
 
